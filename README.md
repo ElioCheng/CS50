@@ -1,8 +1,8 @@
-CS50P: Introduction to Programming with Python
+#CS50P: Introduction to Programming with Python
 
 This repository contains my solutions to the assignments from the CS50P: Introduction to Programming with Python course offered by Harvard University. The assignments cover a wide range of fundamental programming concepts and techniques, providing a solid foundation in Python programming.
 
-Topics Covered
+##Topics Covered
 
 The problems in this repository explore the following key topics:
 
